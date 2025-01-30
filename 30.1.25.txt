@@ -9,3 +9,8 @@ git remote add origin https://github.com/trainingdli/kris-hrms-app-2412.git
 git push -u origin main
 
 Changes from Cloud Git.
+
+
+To https://github.com/trainingdli/kris-hrms-app-2412.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
